@@ -68,12 +68,15 @@ A curated list of delightful [Bot Framework](https://dev.botframework.com/) samp
 
 - [SupportBot](https://github.com/sozercan/supportBot) (Node) - Sample proactive support and ticketing system bot
 
+- [I'm Hungry Bot](https://github.com/nzthiago/ImHungryBot) (Node) - Sample Bot that helps users find open food places nearby.
+
 ### Uncategorized
 
 ## Training
 - [Getting Started with Bots - Microsoft Virtual Academy Course](https://mva.microsoft.com/en-US/training-courses/getting-started-with-bots-16759)
 - [Microsoft Bot Framework .NET](https://www.youtube.com/playlist?list=PLgF-CyaX1p3FE55OTRNH-kOb16zqeBZCo)
 - [Microsoft Bot Framework Node](https://www.youtube.com/playlist?list=PLgF-CyaX1p3Exrp9F80bSIdNdnw2iTAZp)
+- [DevOps for the Bot Framework](https://channel9.msdn.com/Series/DevOps-for-the-Bot-Framework)
 
 ## Guides
 - [Embed the Bot Framework Web Chat as a Collapsible Window](http://anthonychu.ca/post/microsoft-bot-framework-web-embed-collapsible-window/)
