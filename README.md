@@ -70,6 +70,8 @@ A curated list of delightful [Bot Framework](https://dev.botframework.com/) samp
 
 - [I'm Hungry Bot](https://github.com/nzthiago/ImHungryBot) (Node) - Sample Bot that helps users find open food places nearby.
 
+- [InceptionBot](https://github.com/sozercan/inceptionBot) (Node) - Bot that uses Tensorflow Serving to recognize images
+
 ### Uncategorized
 
 ## Training
