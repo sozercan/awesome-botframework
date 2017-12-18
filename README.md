@@ -72,7 +72,7 @@ A curated list of delightful [Bot Framework](https://dev.botframework.com/) samp
 
 - [InceptionBot](https://github.com/sozercan/inceptionBot) (Node) - Bot that uses Tensorflow Serving to recognize images
 
-![] (https://camo.githubusercontent.com/38f79bc2c0d31f081a1933a156bef6d5e987cd4d/68747470733a2f2f692e696d6775722e636f6d2f70756143386c332e706e67)
+![](https://camo.githubusercontent.com/38f79bc2c0d31f081a1933a156bef6d5e987cd4d/68747470733a2f2f692e696d6775722e636f6d2f70756143386c332e706e67)
 
 ### Uncategorized
 
